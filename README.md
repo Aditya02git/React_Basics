@@ -19,8 +19,8 @@ export default defineConfig({
 
 package.json:-
 
-"scripts": {
-"dev": "vite" //npm run dev
-"start": "vite --open" //npm start
-"fuckoff": "vite" //npm run fuckoff
-}
+* "scripts": {
+* "dev": "vite" //npm run dev
+* "start": "vite --open" //npm start
+* "fuckoff": "vite" //npm run fuckoff
+* }
